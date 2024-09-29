@@ -3,11 +3,11 @@
 ## 🚀 About Me
 
 - 🎓 **Education**:  
-  I'm currently pursuing/completed my degree in Computer Engineering.
+  I'm currently studying my degree in Computer Engineering.
 
 - 💼 **Experience**:  
   I've worked on projects involving C#, ASP.NET Core, Entity Framework, and various design patterns.
-Skills: C# /SQL Server/ .NET/ REACT / JS / HTML / CSS/Git
+Skills: C# /SQL Server/ .NET/ JS / HTML / CSS/Git
 
 - 🔭 I’m currently working on this page. 
 - ⚡ Fun fact: ⚡ Fun Fact I love optimizing performance in my applications and have a keen interest in learning the ins and outs of distributed systems  
