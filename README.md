@@ -1,6 +1,13 @@
 ### Hi there 👋, I am Azima Qadirli!
 #### I am a .Net Developer.
-I'm a dedicated.NET developer with expertise creating beautiful web and console applications, with a focus on backend development. I like taking on challenging issues and coming up with scalable, effective, and user-friendly solutions. 
+🚀 About Me
+🎓 Education: I'm currently studying my degree in Computer Engineering.
+💼 Experience: I've worked on projects involving C#, ASP.NET Core, Entity Framework, and various design patterns.
 
 Skills: C# /SQL Server/ .NET/ REACT / JS / HTML / CSS/Git
+
+
+
+
+
 
