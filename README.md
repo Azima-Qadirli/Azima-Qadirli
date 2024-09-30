@@ -10,7 +10,7 @@
 Skills: C# /SQL Server/ .NET/ JS / HTML / CSS/Git
 
 - 🔭 I’m currently working on this page. 
-- ⚡ Fun fact: ⚡ Fun Fact I love optimizing performance in my applications and have a keen interest in learning the ins and outs of distributed systems  
+- ⚡ Fun fact:  I love optimizing performance in my applications and have a keen interest in learning the ins and outs of distributed systems  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Azima-Qadirli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azima-qadirli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/khadirli__azima/)  
