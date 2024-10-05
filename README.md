@@ -1,8 +1,8 @@
-<h2 align="left">
+
   ### Hi there 👋, I am Azima Qadirli!
 #### I am a .Net Developer.
 
-</h2>
+
 
 ###
 
