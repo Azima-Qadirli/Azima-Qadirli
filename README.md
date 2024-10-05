@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! I am Azima Qadirli and I'm a .Net Developer from Azerbaijan!</h2>
+<h2 align="left">
+  ### Hi there 👋, I am Azima Qadirli!
+#### I am a .Net Developer.
+
+</h2>
 
 ###
 
