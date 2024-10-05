@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🎓 **Education**:  
-  I'm currently studying my degree in Computer Engineering.
+  I'm currently studying my degree in Computer Engineering at National Aviation Academy.
 
 - 💼 **Experience**:  
   I've worked on projects involving C#, ASP.NET Core, Entity Framework, and various design patterns.
