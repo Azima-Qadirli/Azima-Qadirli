@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Azima Qadirli!
 ### .NET Developer
 
-I specialize in building robust applications with ASP.NET Core,C#. Passionate about backend development, I'm constantly honing my skills in database management and modern web technologies.
+I specialize in building robust applications with ASP.NET Core,C#. Motivated  about backend development, I'm constantly honing my skills in database management and modern web technologies.
 
 ---
 
