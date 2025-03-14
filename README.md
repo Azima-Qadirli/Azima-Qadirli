@@ -44,7 +44,7 @@ I specialize in building robust applications with ASP.NET Core,C#. Motivated  ab
   <a href="https://www.linkedin.com/in/azima-qadirli" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://qadirliazima.netlify.app/" target="_blank">
+  <a href="https://azimaqadirli.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
 </div>
